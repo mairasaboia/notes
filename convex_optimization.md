@@ -9,3 +9,8 @@ minimize f_0(x)
 subject to f_i(x) <= b_i, i-1,...,m
 
  - variable, constrins and object
+
+Problems that can be solved efficiently and reliably:
+[] Least-square problem
+[] linear programming problems
+[] convex optimization problems
