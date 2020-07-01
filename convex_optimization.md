@@ -5,3 +5,7 @@ Professor Stephen Boyd, of the Stanford University Electrical Engineering depart
 
 [ ] Lecture 1 | Convex Optimization I 
 
+minimize f_0(x)
+subject to f_i(x) <= b_i, i-1,...,m
+
+ - variable, constrins and object
